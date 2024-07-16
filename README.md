@@ -2,8 +2,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/AnoopKr20788928?t=croRddm8-q-LVqksGnsLlA&s=08)](https://twitter.com/https://x.com/AnoopKr20788928?t=croRddm8-q-LVqksGnsLlA&s=08)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/anoop-krishna-8215835b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
-
+[![Linkedin]www.linkedin.com/in/anoop-krishna-8215835b
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anoopkrishna.k9@gmail.com)
 
 
